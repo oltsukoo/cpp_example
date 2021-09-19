@@ -1,0 +1,2 @@
+add_executable(cpp_example_app cpp_example_app.cpp)
+target_include_directories(cpp_example_app PRIVATE ${PROJECT_SOURCE_DIR}/cpp_example_app/include)

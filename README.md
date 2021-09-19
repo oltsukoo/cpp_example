@@ -1,0 +1,1 @@
+A basic C++ project stub that includes GoogleTest.
